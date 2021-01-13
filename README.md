@@ -1,15 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Harun's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
+<a href="https://twitter.com/itsharun_">
   <img align="left" alt="Harun Or Rashid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/itsharun">
   <img align="left" alt="Haruns's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
- <a href="https://facebook.com/peterthehan">
+ <a href="https://facebook.com/riderharun">
   <img align="left" alt="Facebook" title="Facebook"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
 </a>
 
@@ -27,7 +24,7 @@ Hi, I'm [Harun Or Rashid!](https://github.com/harun-rucse/), a passionate self-t
 - 👨🏽‍💻 I’m currently working on battleground-tournament restfull api :wink:;
 - 🌱 I’m currently learning React.js; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@harunorrashid](https://twitter.com/);
+- 📫 How to reach me: [@itsharun_](https://twitter.com/itsharun_);
 - 📝[Resume](https://drive.google.com/)
 
 **Languages and Tools:**  
