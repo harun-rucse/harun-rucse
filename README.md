@@ -3,7 +3,7 @@
 <a href="https://twitter.com/itsharun_">
   <img align="left" alt="Harun Or Rashid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/itsharun">
+<a href="https://www.linkedin.com/in/itsharun">
   <img align="left" alt="Haruns's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  <a href="https://facebook.com/riderharun">
