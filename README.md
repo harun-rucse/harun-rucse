@@ -7,7 +7,7 @@
   <img align="left" alt="Haruns's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  <a href="https://facebook.com/riderharun">
-  <img align="left" alt="Facebook" title="Facebook"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
+  <img align="left" alt="Facebook" title="Facebook"  width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg">
 </a>
 
 
@@ -21,8 +21,8 @@ Hi, I'm [Harun Or Rashid!](https://github.com/harun-rucse/), a passionate self-t
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on battleground-tournament restfull api :wink:;
-- 🌱 I’m currently learning React.js; 
+- 👨🏽‍💻 I’m currently working on my Final year project using MERN :wink:;
+- 🌱 I’m currently learning NestJS; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@itsharun_](https://twitter.com/itsharun_);
 - 📝[Resume](https://drive.google.com/)
