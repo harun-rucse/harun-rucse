@@ -1,10 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/itsharun_">
-  <img align="left" alt="Harun Or Rashid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Harun Or Rashid | Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/itsharun">
-  <img align="left" alt="Haruns's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Haruns's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
 </a>
  <a href="https://facebook.com/riderharun">
   <img align="left" alt="Facebook" title="Facebook"  width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg">
@@ -21,11 +21,11 @@ Hi, I'm [Harun Or Rashid!](https://github.com/harun-rucse/), a passionate self-t
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on my Final year project using MERN :wink:;
+- 👨🏽‍💻 I’m currently working on my personal resume project using MERN :wink:;
 - 🌱 I’m currently learning NestJS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@itsharun_](https://twitter.com/itsharun_);
-- 📝[Resume](https://drive.google.com/)
+- 📫 How to reach me: [@harun.dev]([https://twitter.com/itsharun_](https://harun-dev.vercel.app/));
+- 📝[Resume]([https://drive.google.com/](https://drive.google.com/file/d/173an4i_4oUWwQ1PMFf_HJX8isn0fj2Uy/view?usp=sharing))
 
 **Languages and Tools:**  
 
