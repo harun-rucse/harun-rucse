@@ -24,8 +24,8 @@ Hi, I'm [Harun Or Rashid!](https://github.com/harun-rucse/), a passionate self-t
 - 👨🏽‍💻 I’m currently working on my personal resume project using MERN :wink:;
 - 🌱 I’m currently learning NestJS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@harun.dev]([https://twitter.com/itsharun_](https://harun-dev.vercel.app/));
-- 📝[Resume]([https://drive.google.com/](https://drive.google.com/file/d/173an4i_4oUWwQ1PMFf_HJX8isn0fj2Uy/view?usp=sharing))
+- 📫 How to reach me: [@harun.dev](https://harun-dev.vercel.app/);
+- 📝[My Resume](https://drive.google.com/file/d/173an4i_4oUWwQ1PMFf_HJX8isn0fj2Uy/view?usp=sharing);
 
 **Languages and Tools:**  
 
