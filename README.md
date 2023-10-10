@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Harun Or Rashid!](https://github.com/harun-rucse/), a passionate self-taught Full Stack Web Developer 🚀 from Bangladesh.
+Hi, I'm [Harun Or Rashid!](https://harun-dev.vercel.app/), a passionate self-taught Full Stack Web Developer 🚀 from Bangladesh.
 
 
   
