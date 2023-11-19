@@ -25,7 +25,7 @@ Hi, I'm [Harun Or Rashid!](https://harun-dev.vercel.app/), a passionate self-tau
 - 🌱 I’m currently learning NestJS; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@harun.dev](https://harun-dev.vercel.app/);
-- 📝[My Resume](https://drive.google.com/file/d/173an4i_4oUWwQ1PMFf_HJX8isn0fj2Uy/view?usp=sharing);
+- 📝[My Resume](https://drive.google.com/file/d/1yrJzfcBiQzx9A6nYew6vdU-W06tSLbx8/view);
 
 **Languages and Tools:**  
 
